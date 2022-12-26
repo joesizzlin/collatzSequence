@@ -1,4 +1,4 @@
-# The Collatz Sequence  Practice project
+# The Collatz Sequence Practice project
 
 def collatz(number):                    # define function
     if number % 2 == 0:                 # if number is even, then divide by two, assign as 'result'
