@@ -1,6 +1,6 @@
 # collatzSequence
 
-##  This is my completed chapter 3 practice project from the book "Automate the Boring Stuff" By: Al Sweigart
+##  This is my completed chapter 3 practice project from the book "Automate the Boring Stuff with Python" By: Al Sweigart
 
 Below are the objectives:
 1. Write a function that implements the Collatz sequence
